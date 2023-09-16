@@ -12,6 +12,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@types/dagre": "^0.7.49",
+    "dagre": "^0.8.5",
     "echarts": "^5.4.3",
     "vue": "^3.3.4"
   },
